@@ -8,6 +8,6 @@
 **Wiring**:  
 - Connect both the motors with green screw header
 - Power up from your battery with GND (black) and VIN (red) wires.
-- Connect the male pins (IN1, IN2, IN3 and IN4) with arduino pins
+- Connect the male pins (IN1, IN2, IN3 and IN4) with arduino nano pins (3,5,6,9)
 
 
