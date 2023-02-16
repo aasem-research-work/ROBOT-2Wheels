@@ -7,3 +7,10 @@
 -  D2 <---> IN2
 -  D5 <---> IN3
 -  D6 <---> IN4
+
+## Commands
+- 0: Stop
+- 1: Move Farward
+- -1: Move Backward
+- 2: Turn Right
+- -2: Turn Left
